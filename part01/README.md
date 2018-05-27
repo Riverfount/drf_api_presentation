@@ -1,5 +1,5 @@
 # RESTFull API's with Django and Django Rest Framework - Part 01
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Riverfount/api_drf_presentation/master?p=part01&grs=github&t=beige)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/Riverfount/drf_api_presentation/master?p=part01)
 
 Slides for my presentation on Python Pro's Tech Talk
 
