@@ -126,7 +126,6 @@ Estrutura dos Arquivos
     │   ├── __init__.py
     │   ├── migrations
     │   ├── models.py
-    │   ├── serializers.py
     │   ├── tests.py
     │   └── views.py
     │   (...)
